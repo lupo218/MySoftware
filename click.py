@@ -1,4 +1,4 @@
-def Click():
-	print("click")
+def welcome():
+	print("welcome")
 	
-Click()
+welcome()
